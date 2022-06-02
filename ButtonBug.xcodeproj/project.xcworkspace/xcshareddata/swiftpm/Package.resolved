@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "anycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flight-School/AnyCodable.git",
+      "state" : {
+        "revision" : "f9fda69a7b704d46fb5123005f2f7e43dbb8a0fa",
+        "version" : "0.6.5"
+      }
+    },
+    {
+      "identity" : "cloud-sdk-ios-fiori",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SAP/cloud-sdk-ios-fiori.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a82de93715b34e0b834f1993c85e3488018f41bc"
+      }
+    },
+    {
+      "identity" : "observable-array",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sstadelman/observable-array.git",
+      "state" : {
+        "revision" : "8cc76410f71b6653897f974b453e9a15ef8f96b4",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "zip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MarcoEidinger/Zip.git",
+      "state" : {
+        "revision" : "059e7346082d02de16220cd79df7db18ddeba8c3",
+        "version" : "2.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
